@@ -195,7 +195,7 @@ summary {
 html {
   font-family: serif;
   font-size: 1.125em; /* 18/16 */
-  line-height: 1.2em;
+  line-height: 1.5em;
   margin: 0;
 }
 
@@ -208,7 +208,7 @@ li {
   text-transform: uppercase;
   background-color: #6FBFFF;
   border: none;
-  padding: .5em;
+  padding: 0 .5em;
   width: 50%;
   margin-left:25%;
   margin-right:25%;
@@ -221,4 +221,6 @@ li {
 
 input {
   width: 90%;
+  height: 2em;
+  margin: 0;
 }
