@@ -9,8 +9,8 @@
 </head>
 <body>
   <main id="content">
-    <form id="user">
-      <ol>
+    <form action="#null" method="get" id="user">
+      <ol id="userlist">
         <li>
           <label for="email">Email</label>
           <input type="email" id="email" name="email" placeholder="example@example.com" />
@@ -24,7 +24,7 @@
           <input type="date" id="birthday" name="birthday" />
         </li>
       </ol>
-      <input type="submit" value="Submit" />
+      <input id="submit" type="submit" value="submit" />
     </form>
   </main>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
