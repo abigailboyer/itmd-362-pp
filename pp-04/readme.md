@@ -28,10 +28,17 @@ Small commits to your Production Problems repository that include:
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
 * HCI Guidline One (URL):
+https://material.io/guidelines/motion/material-motion.html#material-motion-implications-of-motion
 * How you implemented it in your sketch:
+When the user hits login, the following dashboard/profile screen slides in from the right.
 
 * HCI Guidline Two (URL):
+https://msdn.microsoft.com/en-us/library/windows/desktop/dn742479(v=vs.85).aspx
+"If a window is contextual, always display it near the object that it was launched from."
 * How you implemented it in your sketch:
+When you mistype your password, a pop up appears instead of it taking you to an entire other page where you'll have to click another link in a completely different part of the page to take you back to the login screen.
 
 * HCI Guidline Three (URL):
+https://material.io/guidelines/layout/metrics-keylines.html#metrics-keylines-touch-target-size
 * How you implemented it in your sketch:
+big ole button and big ole input things for ur giant fingers to click
