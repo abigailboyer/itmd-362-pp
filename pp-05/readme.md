@@ -15,18 +15,18 @@ your own master usability checklist.
 
 * URLs for the usability checklists you've found:
 
-1.
-2.
+1. https://www.guru99.com/complete-web-application-testing-checklist.html
+2. https://html.com/blog/website-testing-usability-checklist/
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. The page is easy to read and understand for all types of users.
+2. The user can find what they're looking for easily.
+3. The layout/text provides the user with visual cues about the content's order.
+4. The navigation and hierarchy of content is intuitive and the user's steps are well directed from one place to the next.
+5. Responsive design for all browsers.
+6. Design, layout, and text should have a consistent theme across all pages.
+7. All of the pages/fonts/images load quickly.
+8. The forms are as simple as possible and easy to quickly fill out.
+9. The website isn't cluttered and only contains necessary content.
+10. The intentions and credibility of the website are transparent.
